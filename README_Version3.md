@@ -92,7 +92,7 @@ A simple yet robust e-commerce web application built with the modern MERN stack,
 ## 📸 Screenshots
 
 <!-- Add your screenshots here! Example: -->
-<img src="screenshots/sign-in page.png" width="600" alt="Sign_in_page" />
+<img src="screenshots/sign-in_page.png" width="600" alt="Sign_in_page" />
 <img src="screenshots/website_hmpg.png" width="600" alt="Homepage" />
 <img src="screenshots/website_hmpg2.png" width="600" alt="Homepage-2" />
 <img src="screenshots/product_details-1" width="600" alt="Product_details" />
