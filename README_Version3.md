@@ -95,9 +95,9 @@ A simple yet robust e-commerce web application built with the modern MERN stack,
 <img src="screenshots/sign-in_page.png" width="600" alt="Sign_in_page" />
 <img src="screenshots/website_hmpg.png" width="600" alt="Homepage" />
 <img src="screenshots/website_hmpg2.png" width="600" alt="Homepage-2" />
-<img src="screenshots/product_details-1" width="600" alt="Product_details" />
+<img src="screenshots/product_details-1.png" width="600" alt="Product_details" />
 <img src="screenshots/cart.png" width="600" alt="Cart Page" />
-<img src="screenshots/pmnt.png" width="600" alt="Payment Page" />
+<img src="screenshots/pmnt_pg.png" width="600" alt="Payment Page" />
 
 ---
 
